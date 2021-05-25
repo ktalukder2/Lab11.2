@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ktalukder\\OneDrive - KNEX\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\ShopApp.csproj": {}
+    "C:\\Users\\ktalukder\\OneDrive - Knex\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\ShopApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ktalukder\\OneDrive - KNEX\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\ShopApp.csproj": {
+    "C:\\Users\\ktalukder\\OneDrive - Knex\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\ShopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ktalukder\\OneDrive - KNEX\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\ShopApp.csproj",
+        "projectUniqueName": "C:\\Users\\ktalukder\\OneDrive - Knex\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\ShopApp.csproj",
         "projectName": "ShopApp",
-        "projectPath": "C:\\Users\\ktalukder\\OneDrive - KNEX\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\ShopApp.csproj",
+        "projectPath": "C:\\Users\\ktalukder\\OneDrive - Knex\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\ShopApp.csproj",
         "packagesPath": "C:\\Users\\ktalukder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ktalukder\\OneDrive - KNEX\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\obj\\",
+        "outputPath": "C:\\Users\\ktalukder\\OneDrive - Knex\\Desktop\\Csharp code\\pc swap\\Dev\\ShopApp\\ShopApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ktalukder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.25, )"
             }
           },
           "imports": [

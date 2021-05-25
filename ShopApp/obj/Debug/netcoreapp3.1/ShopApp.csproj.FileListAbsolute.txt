@@ -1,198 +1,131 @@
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\appsettings.json
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csprojAssemblyReference.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfoInputs.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfo.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorAssemblyInfo.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorAssemblyInfo.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.TagHelpers.input.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.TagHelpers.output.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorCoreGenerate.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorTargetAssemblyInfo.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorTargetAssemblyInfo.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.StaticWebAssets.Manifest.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.StaticWebAssets.xml
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.Views.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.Views.pdb
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CoreCompileInputs.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.MvcApplicationPartsAssemblyInfo.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.Views.pdb
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CopyComplete
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
-G:\Tanim\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Result\UserRegister.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.Views.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.Views.pdb
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.Views.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.Views.pdb
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csprojAssemblyReference.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfoInputs.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfo.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorAssemblyInfo.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorAssemblyInfo.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.TagHelpers.input.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.TagHelpers.output.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorCoreGenerate.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorTargetAssemblyInfo.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorTargetAssemblyInfo.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.Views.pdb
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.StaticWebAssets.Manifest.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.StaticWebAssets.xml
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CopyComplete
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Result\UserRegister.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CoreCompileInputs.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductDetails.cshtml.g.cs
+E:\Tanim Hossain\USA Task\19052021\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\CategoryIndex.cshtml.g.cs
 C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csprojAssemblyReference.cache
 C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfoInputs.cache
 C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.AssemblyInfo.cs
@@ -200,25 +133,124 @@ C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopA
 C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorAssemblyInfo.cache
 C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorAssemblyInfo.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.StaticWebAssets.Manifest.cache
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.StaticWebAssets.xml
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.styles.css
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.TagHelpers.input.cache
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.TagHelpers.output.cache
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorCoreGenerate.cache
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Result\UserRegister.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorTargetAssemblyInfo.cache
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorTargetAssemblyInfo.cs
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.Views.pdb
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CopyComplete
 C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.dll
 C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.pdb
-C:\Users\ktalukder\OneDrive - KNEX\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.exe
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.deps.json
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.json
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.runtimeconfig.dev.json
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.pdb
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.Views.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ShopApp.Views.pdb
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.StaticWebAssets.Manifest.cache
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.StaticWebAssets.xml
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.styles.css
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.TagHelpers.input.cache
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.TagHelpers.output.cache
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorCoreGenerate.cache
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\CategoryIndex.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductDetails.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Result\UserRegister.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorTargetAssemblyInfo.cache
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.RazorTargetAssemblyInfo.cs
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.Views.pdb
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.csproj.CopyComplete
+C:\Users\ktalukder\OneDrive - Knex\Desktop\Csharp code\pc swap\Dev\ShopApp\ShopApp\obj\Debug\netcoreapp3.1\ShopApp.genruntimeconfig.cache

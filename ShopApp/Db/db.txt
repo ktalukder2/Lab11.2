@@ -1,0 +1,9 @@
+1.Create database=>Create database shopappdb
+2.create table => create table product(
+id int not null primary key,
+name varchar2,
+description varchar2,
+price int,
+category varchar2
+
+)
